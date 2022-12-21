@@ -12,7 +12,7 @@ print(area)'''
 rect_area()'''
 
 
-def factorial (x):
+'''def factorial (x):
 	fact=1
 	if x==0 or x==1:
 		fact=1
@@ -23,4 +23,7 @@ def factorial (x):
 for i in range(4):
 	choice=int(input("enter value: "))
 	factorial_value=factorial(choice)
-	print("factorial of {} is {} ".format(choice,factorial_value))
+	print("factorial of {} is {} ".format(choice,factorial_value))'''
+
+
+	
