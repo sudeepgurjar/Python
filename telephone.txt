@@ -1,3 +1,5 @@
-HI i am sudeep.
- i am 20 year old.
- i live in indore.
+maths marks is 36
+english marks is 62
+hindi marks is 44
+Total is 142
+avrage is 47.333333333333336
