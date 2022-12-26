@@ -26,7 +26,6 @@ print(data)
 f.close()'''
 
 f=open("telephone.txt","w")
-subject=("","","")
 hindi=44
 english=62
 maths=36
@@ -36,3 +35,4 @@ result = "maths marks is {}\nenglish marks is {}\nhindi marks is {}\nTotal is {}
 f.write(result)
 print(result)
 f.close
+
