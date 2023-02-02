@@ -25,7 +25,7 @@ data=f.read()
 print(data)
 f.close()'''
 
-f=open("telephone.txt","w")
+'''f=open("telephone.txt","w")
 hindi=44
 english=62
 maths=36
@@ -34,5 +34,4 @@ avg = total/3
 result = "maths marks is {}\nenglish marks is {}\nhindi marks is {}\nTotal is {}\navrage is {}\n".format(maths,english,hindi,total,avg)
 f.write(result)
 print(result)
-f.close
-
+f.close()'''

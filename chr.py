@@ -6,7 +6,7 @@ dot_count=0
 other_count=0
 user_value=input("enter value:")
 
-for i in user_value:
+for i in user_value:c
     if i in num_chr:
         num_count+=1
     elif i=="." :
